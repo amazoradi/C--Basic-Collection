@@ -1,4 +1,4 @@
-# C--Basic-Collection
+# C# Basic Collection
 Introduction to C# and basic data types
 
 
