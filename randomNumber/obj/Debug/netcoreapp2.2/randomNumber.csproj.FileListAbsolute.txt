@@ -1,0 +1,11 @@
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\bin\Debug\netcoreapp2.2\randomNumber.deps.json
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\bin\Debug\netcoreapp2.2\randomNumber.runtimeconfig.json
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\bin\Debug\netcoreapp2.2\randomNumber.runtimeconfig.dev.json
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\bin\Debug\netcoreapp2.2\randomNumber.dll
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\bin\Debug\netcoreapp2.2\randomNumber.pdb
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\obj\Debug\netcoreapp2.2\randomNumber.csprojAssemblyReference.cache
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\obj\Debug\netcoreapp2.2\randomNumber.csproj.CoreCompileInputs.cache
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\obj\Debug\netcoreapp2.2\randomNumber.AssemblyInfoInputs.cache
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\obj\Debug\netcoreapp2.2\randomNumber.AssemblyInfo.cs
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\obj\Debug\netcoreapp2.2\randomNumber.dll
+C:\Users\amazo\workspace\backend\c#\exercises\randomNumber\obj\Debug\netcoreapp2.2\randomNumber.pdb
