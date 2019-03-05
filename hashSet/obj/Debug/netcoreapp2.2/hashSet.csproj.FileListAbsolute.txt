@@ -1,0 +1,11 @@
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\bin\Debug\netcoreapp2.2\hashSet.deps.json
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\bin\Debug\netcoreapp2.2\hashSet.runtimeconfig.json
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\bin\Debug\netcoreapp2.2\hashSet.runtimeconfig.dev.json
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\bin\Debug\netcoreapp2.2\hashSet.dll
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\bin\Debug\netcoreapp2.2\hashSet.pdb
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\obj\Debug\netcoreapp2.2\hashSet.csprojAssemblyReference.cache
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\obj\Debug\netcoreapp2.2\hashSet.csproj.CoreCompileInputs.cache
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\obj\Debug\netcoreapp2.2\hashSet.AssemblyInfoInputs.cache
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\obj\Debug\netcoreapp2.2\hashSet.AssemblyInfo.cs
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\obj\Debug\netcoreapp2.2\hashSet.dll
+C:\Users\amazo\workspace\backend\c#\exercises\hashSet\obj\Debug\netcoreapp2.2\hashSet.pdb
