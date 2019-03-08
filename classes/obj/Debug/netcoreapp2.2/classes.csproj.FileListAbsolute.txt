@@ -1,0 +1,11 @@
+C:\Users\amazo\workspace\backend\c#\exercises\classes\obj\Debug\netcoreapp2.2\classes.csprojAssemblyReference.cache
+C:\Users\amazo\workspace\backend\c#\exercises\classes\obj\Debug\netcoreapp2.2\classes.csproj.CoreCompileInputs.cache
+C:\Users\amazo\workspace\backend\c#\exercises\classes\obj\Debug\netcoreapp2.2\classes.AssemblyInfoInputs.cache
+C:\Users\amazo\workspace\backend\c#\exercises\classes\obj\Debug\netcoreapp2.2\classes.AssemblyInfo.cs
+C:\Users\amazo\workspace\backend\c#\exercises\classes\bin\Debug\netcoreapp2.2\classes.deps.json
+C:\Users\amazo\workspace\backend\c#\exercises\classes\bin\Debug\netcoreapp2.2\classes.runtimeconfig.json
+C:\Users\amazo\workspace\backend\c#\exercises\classes\bin\Debug\netcoreapp2.2\classes.runtimeconfig.dev.json
+C:\Users\amazo\workspace\backend\c#\exercises\classes\bin\Debug\netcoreapp2.2\classes.dll
+C:\Users\amazo\workspace\backend\c#\exercises\classes\bin\Debug\netcoreapp2.2\classes.pdb
+C:\Users\amazo\workspace\backend\c#\exercises\classes\obj\Debug\netcoreapp2.2\classes.dll
+C:\Users\amazo\workspace\backend\c#\exercises\classes\obj\Debug\netcoreapp2.2\classes.pdb
